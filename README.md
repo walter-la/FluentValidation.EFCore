@@ -1,10 +1,10 @@
 A mapping validation rule from Entity Framework Core.
 
 ### Get Started
-FluentValidation.EFCore can be installed using the Nuget package manager or the `dotnet` CLI.
+Walterla.FluentValidation.EntityFrameworkCore can be installed using the Nuget package manager or the `dotnet` CLI.
 
 ```
-Install-Package FluentValidation.EFCore
+Install-Package Walterla.FluentValidation.EntityFrameworkCore
 ```
 
 ### Dependency Injection
@@ -51,4 +51,4 @@ IList<ValidationFailure> failures = results.Errors;
 
 ### License, Copyright etc
 
-FluentValidation.EFCore is copyright &copy; 2020 Walter-la and other contributors. It's free for anyone.
+Walterla.FluentValidation.EntityFrameworkCore is copyright &copy; 2020 Walter-la and other contributors. It's free for anyone.
